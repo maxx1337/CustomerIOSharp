@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>CustomerIOSharp.Net40</id>
-    <version>0.3</version>
+    <version>0.3.1</version>
     <title>Customer.io C# implementation</title>
     <authors>maxx1337</authors>
     <owners>maxx1337</owners>
