@@ -1,20 +1,21 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>CustomerIOSharp</id>
+    <id>CustomerIOSharp.Net40</id>
     <version>0.3</version>
     <title>Customer.io C# implementation</title>
-    <authors>vegardlarsen</authors>
-    <owners>vegardlarsen</owners>
-    <projectUrl>http://github.com/digitalcreations/CustomerIOSharp</projectUrl>
+    <authors>maxx1337</authors>
+    <owners>maxx1337</owners>
+    <projectUrl>http://github.com/maxx1337/CustomerIOSharp</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Implementation of Customer.io's write-only API for .NET.</description>
-    <releaseNotes>Allow back-dating events.</releaseNotes>
-    <copyright>Copyright 2014 Digital Creations AS.</copyright>
+    <releaseNotes>change target to .net 4</releaseNotes>
+    <copyright>Copyright 2015</copyright>
     <tags>customer-io customerio email</tags>
     <dependencies>
       <dependency id="RestSharp" version="104.4.0" />
       <dependency id="Newtonsoft.Json" version="6.0.4" />
+      <dependency id="Microsoft.Bcl.Async" version="1.0.168" />
     </dependencies>
   </metadata>
 </package>
