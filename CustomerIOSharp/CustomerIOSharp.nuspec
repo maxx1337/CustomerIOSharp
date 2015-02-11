@@ -2,14 +2,14 @@
 <package >
   <metadata>
     <id>CustomerIOSharp.Net40</id>
-    <version>0.3.1</version>
+    <version>0.3.3</version>
     <title>Customer.io C# implementation</title>
     <authors>maxx1337</authors>
     <owners>maxx1337</owners>
     <projectUrl>http://github.com/maxx1337/CustomerIOSharp</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Implementation of Customer.io's write-only API for .NET.</description>
-    <releaseNotes>change target to .net 4</releaseNotes>
+    <releaseNotes>it is now possible to set customerId on each action</releaseNotes>
     <copyright>Copyright 2015</copyright>
     <tags>customer-io customerio email</tags>
     <dependencies>
