@@ -3,6 +3,7 @@ using System.Net;
 using System.Threading.Tasks;
 using RestSharp;
 using RestSharp.Serializers;
+using RestSharp.Authenticators;
 
 namespace CustomerIOSharp
 {
